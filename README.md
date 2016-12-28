@@ -33,5 +33,5 @@
 <p> Fragments are useful in many cases, like when implementing slideable tabs, or sliding. Basically when we need to include multiple views into an activity. Another powerful feature of fragment is that it has its own Life Cycle. So in a way it acts as an sub-activity in a activity.
 I kind of like it when I have to make complex layout with backstacks. For tablets they are quite useful for making mater flow type layouts</p>
 ####   6. If you were to start your Android position today, what would be your goals a year from now?
-<p>My goals after one year would be to be to a lead a team of android developers, and create an app that would be useful for masses. 
-Also I would like to work in open source comunity.</p>
+<p>My goals after one year would be to be to lead a team of android developers, and create an app that would be useful for masses. 
+Also I would like to work for open source comunity and help people.</p>
